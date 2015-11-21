@@ -201,6 +201,7 @@
 }
 .fa-check:before {
   content: "\f00c";
+  display: none;
 }
 .fa-remove:before,
 .fa-close:before,
@@ -222,6 +223,7 @@
 .fa-gear:before,
 .fa-cog:before {
   content: "\f013";
+  display: none;
 }
 .fa-trash-o:before {
   content: "\f014";
