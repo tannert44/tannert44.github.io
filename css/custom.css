@@ -12,3 +12,7 @@ i {
   
   display: none;
 }
+
+.image-box {
+  display: inline;
+}
